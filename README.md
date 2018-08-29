@@ -1,1 +1,2 @@
 # wumpus
+Wumpus is a planning problem. You need to find and kill a Wumpus hiding in an unknown maze. The player sends in a series of disposable robots each with a fixed list of instructions to follow. Each robot follows its instructions until it is destroyed or it finishes the instructions, or it kills the Wumpus. After a robot is finished the player gets feedback on what the robot sensed following the instructions. The aim is to explore the maze and find and shoot the Wumpus.
